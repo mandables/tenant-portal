@@ -1,5 +1,3 @@
 import React, { Component } from 'react'
 
-export default class Appointments extends Component {
-    
-}
+export default class Appointments extends Component {}
