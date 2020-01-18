@@ -5,7 +5,7 @@ import Appointments from './components/Appointments';
 
 class App extends Component {
 	state = {
-		display: ''
+		display: this.APPOINTMENTS
 	};
 
 	PROBLEM = 'problem';
