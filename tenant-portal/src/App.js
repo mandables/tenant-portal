@@ -9,7 +9,7 @@ import Button from '@material-ui/core/Button';
 
 class App extends Component {
 	state = {
-		display: ''
+		display: this.APPOINTMENTS
 	};
 
 	PROBLEM = 'problem';
